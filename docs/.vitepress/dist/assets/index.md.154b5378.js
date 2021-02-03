@@ -1,1 +1,0 @@
-import{o as t,c as e,a}from"./app.e16ab799.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1612347509859}',n={},o=a("p",null,"faas-deno2",-1);n.render=function(a,r,n,d,i,l){return t(),e("div",null,[o])};export default n;export{r as __pageData};
