@@ -1,0 +1,17 @@
+{
+  "name": "faas-deno",
+  "version": "1.0.0",
+  "description": "a FaaS service with Deno.js",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": "https://github.com/betterRunner/faas-deno.git",
+  "author": "Neo Chan",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.11.5"
+  }
+}
